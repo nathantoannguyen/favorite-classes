@@ -1,5 +1,18 @@
 .class {
-    width: 100px;
-    height: 100px;
-    background-color: forestgreen;
+    margin: auto;
+    width: 500px;
+    height: 250px;
+    background-color: lightblue;
+    padding: 25px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#title {
+    font-weight: bold;
+}
+
+#description {
+    text-align: justify;
+    text-justify: inter-word;
 }
